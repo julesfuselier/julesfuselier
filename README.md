@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KoddaZz
 - 👀 I’m interested in informatic & maths
 - 🌱 I’m currently learning python & web
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me ? On discord -> jufu_
 - 😄 Pronouns: Him/He
 
