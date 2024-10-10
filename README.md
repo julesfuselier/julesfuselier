@@ -5,7 +5,7 @@
     <img align="middle" src="https://raw.githubusercontent.com/KoddaZz/KoddaZz/main/Images/avatar-round.png" alt="KoddaZz | Avatar" width="120px"/>
     </td><td>
     <ul>
-    <li> 👋 Hi, I’m @KoddaZz
+    <li> 👋 Hi, I’m Jules
     <li> 👀 I’m interested in informatic & maths
     <li> 🌱 I’m currently learning python & web
     <li> 😄 Pronouns: Him/He
