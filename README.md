@@ -6,9 +6,8 @@
     </td><td>
     <ul>
     <li> 👋 Hi, I’m Jules
-    <li> 👀 I’m interested in informatic & maths
-    <li> 🌱 I’m currently learning python & web
-    <li> 😄 Pronouns: Him/He
+    <li> 👀 I’m interested in informatic & reading
+    <li> 🌱 I’m currently learning web & c++
     <li> : ) :
     </ul>
     </td></tr>
