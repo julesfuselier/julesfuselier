@@ -19,6 +19,10 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="30" alt="python logo" />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="30" alt="html logo"/>
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="30" alt="html logo"/>
+  <img width="12" />
 </div>
 
 <h1 align="left"> 📍 My Github's Stats </h1>
