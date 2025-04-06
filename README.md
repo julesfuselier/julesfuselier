@@ -46,13 +46,14 @@
     </picture>
     </a>
 </div>
+
 ---
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=julesfuselier&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=5"</p>
 
 ---
 
----
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/31vzig5q54gvmnua6zxbirqtz75u?si=7c371e1e4f4d4d7f">
