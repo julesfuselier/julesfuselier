@@ -38,13 +38,14 @@
 
 ---
 
-<a href="https://wakatime.com/@KoddaZz">
-<picture>
-  <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=KoddaZz&layout=compact&title_color=0891b2&icon_color=0891b2&locale=en">
-  <img alt="Languages over the last 7 days" src="https://github-readme-stats.vercel.app/api/wakatime?username=KoddaZz&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en"/>
-</picture>
-</a>
-
+<div align="center">
+    <a href="https://wakatime.com/@KoddaZz">
+    <picture>
+      <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=KoddaZz&layout=compact&title_color=0891b2&icon_color=0891b2&locale=en">
+      <img alt="Languages over the last 7 days" src="https://github-readme-stats.vercel.app/api/wakatime?username=KoddaZz&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en"/>
+    </picture>
+    </a>
+</div>
 ---
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=julesfuselier&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=5"</p>
