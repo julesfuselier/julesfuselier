@@ -7,7 +7,7 @@
     <ul>
     <li> 👋 Hi, I’m Jules
     <li> 👀 I’m interested in informatic & reading
-    <li> 🌱 I’m currently learning web & c++
+    <li> 🌱 I’m currently learning web & Java 
     <li> : ) :
     </ul>
     </td></tr>
