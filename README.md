@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="30" alt="html logo"/>
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/452234/java.svg" height="30" alt="java logo"/>
+  <img width="12" />
 </div>
 
 ---
