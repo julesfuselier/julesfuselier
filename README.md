@@ -8,6 +8,7 @@
     <li> 👋 Hi, I’m Jules
     <li> 👀 I’m interested in informatic & reading
     <li> 🌱 I’m currently learning web & Java 
+    <li> <a href="https://julesfuselier.github.io"/>
     <li> : ) :
     </ul>
     </td></tr>
