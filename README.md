@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452234/java.svg" height="30" alt="java logo"/>
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/452234/php.svg" height="30" alt="java logo"/>
+  <img src="https://www.svgrepo.com/show/452088/php.svg" height="30" alt="php logo"/>
   <img width="12" />
 </div>
 
