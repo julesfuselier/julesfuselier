@@ -1,44 +1,39 @@
-<h3>PRESENTATION</h3>
-<table>
-    <tr>
-    <td>
-    <img align="middle" src="https://raw.githubusercontent.com/KoddaZz/KoddaZz/main/Images/fire_pdp.png" alt="KoddaZz | Avatar" width="120px"/>
-    </td><td>
-    <ul>
-    <li> 👋 Hi, I’m Jules
-    <li> 👀 I’m interested in informatic & reading
-    <li> 🌱 I’m currently learning web & JS
-    <li> <a href="https://julesfuselier.github.io"/>
-    <li> : ) :
-    </ul>
-    </td></tr>
- </table>
+# 👋 Jules Fuselier - Software Developer Student
 
+## 🎓 About Me
+Second-year **Computer Science student** at IUT Aix-en-Provence, passionate about web development and software architecture. Currently seeking an **8-10 week internship** in application development (backend/fullstack).
 
-<div align="left">
-  <img src="https://www.svgrepo.com/show/452183/cpp.svg" height="30" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452091/python.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="30" alt="html logo"/>
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="30" alt="html logo"/>
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452234/java.svg" height="30" alt="java logo"/>
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452088/php.svg" height="30" alt="php logo"/>
-  <img width="12" />
-</div>
+## 💻 Technical Skills
+
+**Programming Languages:**
+- Backend: Java, PHP, Python, SQL
+- Frontend: HTML, CSS, JavaScript
+- Other: C++
+
+**Frameworks & Tools:**
+- Symfony, JavaFX
+- Git, CI/CD (GitHub Actions, Travis CI)
+- MySQL, PostgreSQL, SQLite
+- Automated Testing (PHPUnit)
+
+## 🚀 Main Projects
+
+### [📱 IUT Management Platform](https://github.com/julesfuselier/SAE-A2_intra-iut-relations-internationales) [NO ACCESS, IN DEV]
+MVC web application in **PHP/MySQL** with multi-role authentication, CRUD operations, Python scraper, CI/CD pipeline and automated deployment.  
+`PHP` `MySQL` `MVC` `GitHub Actions` `PSR-12`
+
+### [🎮 Bomberman JavaFX](https://github.com/julesfuselier/S201-SuperBomberman-Remake)
+Complete game developed in **Java** with OOP architecture, design patterns (Observer, Factory), collision system and graphical interface.  
+`Java` `JavaFX` `Design Patterns` `Git`
 
 ---
 
-<h1 align="left"> 📍 My Github's Stats </h1>
-
+<h1 align="center"> 📊 GitHub Stats </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julesfuselier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="Statistiques"  />
-  <img src="https://streak-stats.demolab.com?user=julesfuselier&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julesfuselier&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="Languages utilisés"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=julesfuselier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="Stats"  />
+  <img src="https://streak-stats.demolab.com?user=julesfuselier&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="Streak"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julesfuselier&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="Top Languages"  />
 </div>
 
 ---
@@ -47,25 +42,25 @@
     <a href="https://wakatime.com/@KoddaZz">
     <picture>
       <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=KoddaZz&layout=compact&title_color=0891b2&icon_color=0891b2&locale=en">
-      <img alt="Languages over the last 7 days" src="https://github-readme-stats.vercel.app/api/wakatime?username=KoddaZz&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en"/>
+      <img alt="Coding Activity (Last 7 Days)" src="https://github-readme-stats.vercel.app/api/wakatime?username=KoddaZz&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en"/>
     </picture>
     </a>
 </div>
 
 ---
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=julesfuselier&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=5"</p>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=julesfuselier&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=5" alt="Trophies" />
+</p>
 
 ---
 
+## 📫 Get in Touch
 
+- 📧 Email: jules.fuselier@etu.univ-amu.fr
+- 💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/julesfuselier/)
+- 📄 Resume: [View my CV](https://julesfuselier.fr/assets/others/CV_FUSELIER-Jules.pdf)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31vzig5q54gvmnua6zxbirqtz75u?si=7c371e1e4f4d4d7f">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vzig5q54gvmnua6zxbirqtz75u&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-<!---
-KoddaZz/KoddaZz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+💡 Currently learning: Clean Architecture, Design Patterns, Artificial Intelligence
