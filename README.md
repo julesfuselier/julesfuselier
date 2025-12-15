@@ -2,7 +2,7 @@
 <table>
     <tr>
     <td>
-    <img align="middle" src="https://raw.githubusercontent.com/KoddaZz/KoddaZz/main/Images/pp.png" alt="KoddaZz | Avatar" width="120px"/>
+    <img align="middle" src="https://raw.githubusercontent.com/KoddaZz/KoddaZz/main/Images/fire_pdp.png" alt="KoddaZz | Avatar" width="120px"/>
     </td><td>
     <ul>
     <li> 👋 Hi, I’m Jules
